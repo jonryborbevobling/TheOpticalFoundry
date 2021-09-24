@@ -64,7 +64,7 @@ The exact procedure for controlling app permissions may be dependent on the User
 Please note that the revoking of such permissions might impact the proper functioning of this Application.
 
 If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application:
-- Camera permission - Used for accessing the camera to enable AR functionalities of the app that uses camera to track plane detection, image target and face-tracking.
+- Camera permission - Used for accessing the camera to enable AR functionalities of the app that uses camera to track face-tracking.
 
 ## Disclosure Of Data
 
